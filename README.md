@@ -1,1 +1,1 @@
-Hi Hello and Hi
+#!/bin/bash
